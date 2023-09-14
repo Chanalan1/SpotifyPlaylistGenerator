@@ -34,3 +34,8 @@ for my case, I found it easier to use a venv (virtual environment) for this proj
 Done by python3 -m venv name_of_project-env
 <br/>
 To start the script on windows, cd to -env layer, and Script/activate to enter venv, once inside environment you can pip install the dependencies
+<br/>
+<br/>
+You will also need to authenticate your spotify account when running the spotify api, which can be done at developer.spotify.com/dashboard, creating a new project
+<br/>
+and storing the Client ID and Client Secret in the .txt file or into the python code. The redirect URI can be set to your localhost any port.
