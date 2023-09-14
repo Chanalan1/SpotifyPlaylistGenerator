@@ -1,7 +1,7 @@
 # SpotifyPlaylistGenerator
 <br/>
 <br/>
-Project Description
+Project Description:
 <br/>
 <br/>
 Using the Spotipy python library for the Spotify Web API, this app allows a user to create a playlist of up to 20 random songs.
@@ -14,8 +14,11 @@ Features of the app:
 <br/>
 <br/>
 - A script that creates a new playlist into your spotify account and returns the playlist URI
+<br/>
 - Ability to clear all songs from an existing playlist given the URI
+<br/>
 - Search up all songs in a playlist given URI
+<br/>
 - Generate twenty random songs into a playlist given genre and year input
 <br/>
 <br/>
@@ -25,3 +28,7 @@ Getting Started:
 This app leverages the Spotipy library, so for your local environment, pip install spotipy, will be needed
 <br/>
 for my case, I found it easier to use a venv (virtual environment) for this project so it was easier to control packages
+<br/>
+Done by python3 -m venv name_of_project-env
+<br/>
+To start the script on windows, cd to -env layer, and Script/activate to enter venv, once inside environment you can pip install the dependencies
