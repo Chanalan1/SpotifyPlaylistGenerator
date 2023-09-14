@@ -1,0 +1,6 @@
+# get all this information by going to spotify for developers @https://developer.spotify.com/dashboard
+
+
+SPOTIPY_CLIENT_ID = ''
+SPOTIPY_CLIENT_SECRET = ''
+SPOTIPY_REDIRECT_URI = 'https://localhost:8888/callback'
