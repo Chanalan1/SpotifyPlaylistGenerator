@@ -1,3 +1,5 @@
+By: Alan Chan
+
 # SpotifyPlaylistGenerator
 <br/>
 <br/>
